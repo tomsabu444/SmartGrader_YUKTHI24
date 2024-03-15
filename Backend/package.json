@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "AI Answer Checker",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "tom , navaneeth",
+  "license": "ISC"
+}
