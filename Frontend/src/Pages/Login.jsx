@@ -59,12 +59,13 @@ function Login() {
 export default Login;
 
 const Login_Body = styled.div`
-  background: #f6f5f7;
+  background: url(https://cdn.discordapp.com/attachments/1183273568184832104/1218166682695110746/login_background.png?ex=6606ad21&is=65f43821&hm=30049e5b076b825ed9bb2b5d2d28fdded9026d78aaf95f1ac53897c3ac0a717f&);
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   font-family: "Montserrat", sans-serif;
   height: 100vh;
-  margin: -20px 0 50px;
+
 `;
